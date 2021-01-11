@@ -1,4 +1,4 @@
-# [Group 9] Covid-19 Visualization - plotting and clustering time-series
+# [Group 9] Covid-19 Visualization - clustering and plotting time-series
 
 ### Groups
 * name, student ID1
@@ -43,8 +43,11 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 * What is the challenge part of your project?
 
 ## References
-* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
+* Code implementation:
+      https://github.com/rehanzfr/R_Codes/tree/master/Corona
 * Packages you use
-* Related publications
+     
+* Related publication
+   ｐｄｆ
 
 

@@ -17,6 +17,7 @@ You should provide an example commend to reproduce your result
 Rscript code/TimeSeriesCluster.R
 ```
 * any on-line visualization
+  * No
 
 ## Folder organization and its related information
 

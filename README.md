@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
   * Take Lat and Long for Canada in the Recovered Data to replace the missing value in ConfirmedData and Death Data
   * Insert the 2nd column into 1st column as the Province.State of that row
   * Remove 42th row of ConfirmedData and Death Data
-  * Standandized the data as zscore when doing hierarchical clustering
+  * Standandize the data as zscore when doing hierarchical clustering
 
 ### code
 

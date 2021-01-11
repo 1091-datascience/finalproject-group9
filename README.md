@@ -1,4 +1,4 @@
-# [GroupID] Title of your final project
+# [Group 9] Covid-19 Visualization - plotting and clustering time-series
 
 ### Groups
 * name, student ID1
@@ -7,8 +7,7 @@
 * ...
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
-
+Our goal is to be able to get a better understanding of the publicly available Covid-19 Data through different visualization methods
 ### Demo 
 You should provide an example commend to reproduce your result
 ```R

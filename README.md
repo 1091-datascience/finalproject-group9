@@ -76,4 +76,6 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
   
 * Related publications
   * https://www.r-bloggers.com/2013/04/r-beginners-plotting-locations-on-to-a-world-map/
+  * https://medium.com/@panda061325/stock-clustering-with-time-series-clustering-in-r-63fe1fabe1b6
+  * https://towardsdatascience.com/which-countries-are-affected-the-most-by-covid-19-4d4570852e31
 

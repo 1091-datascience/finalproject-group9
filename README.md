@@ -1,4 +1,4 @@
-# [Group 9] Clustering Countries By Their Covid-19 Confirmed/Death/Recovered Time Series
+# [Group 9] Clustering Countries By Their Covid-19 Cases Time Series
 
 ### Groups
 * Choi Pui Shan, 109753158

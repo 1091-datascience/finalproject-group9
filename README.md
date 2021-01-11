@@ -7,7 +7,8 @@
 ### Goal
 * Clustering Countries By Their Covid-19 Confirmed/Death/Recovered Time Series
 * Plotting Covid-19 Data
-* To Understand Which Countries Have Similar Time Series Of Covid-19 Cases & Their Trends => Make A Reference When Doing Business
+* To Understand Which Countries Have Similar Time Series Of Covid-19 Cases & Their Trends
+  * Make A Reference When Doing Business
 
 ### Demo 
 You should provide an example commend to reproduce your result

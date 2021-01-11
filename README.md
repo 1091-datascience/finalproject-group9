@@ -45,29 +45,29 @@ Province.State,Country.Region,Latitude,Longitude,...(Time Series of Cases)
 ### code
 
 * Which method do you use?
-  *Hierarchical clustering of Time Series
-  *Projection of clustering results on PCA
-  *Plot on World Map
+  * Hierarchical clustering of Time Series
+  * Projection of clustering results on PCA
+  * Plot on World Map
 * What is a null model for comparison?
-  *No
+  * No
 * How do your perform evaluation? ie. Cross-validation, or extra separated data
-  *DTW
+  * DTW
 
 ### results
 
 * Which metric do you use 
-  *DTW
+  * DTW
 * Is your improvement significant?
-  *No Comparisions
+  * No Comparisions
 * What is the challenge part of your project?
-  *Choosing suitable k
+  * Choosing suitable k
 
 ## References
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
 * Packages you use
-  *dtwclust
-  *map
+  * dtwclust
+  * map
   
 * Related publications
-  *https://www.r-bloggers.com/2013/04/r-beginners-plotting-locations-on-to-a-world-map/
+  * https://www.r-bloggers.com/2013/04/r-beginners-plotting-locations-on-to-a-world-map/
 

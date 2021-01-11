@@ -2,9 +2,7 @@
 
 ### Groups
 * name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* 王神鐸, 107753048
 
 ### Goal
 Our goal is to be able to get a better understanding of the publicly available Covid-19 Data through different visualization methods

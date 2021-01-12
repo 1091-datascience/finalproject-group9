@@ -23,7 +23,7 @@ Rscript code/TimeSeriesCluster.R
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1091_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jan. 12**
+https://docs.google.com/presentation/d/1BGztr853zrl21LoFfiGVN8iHWy_lOw2hET6KExU2lpg/edit?usp=sharing
 * Any related document for the final project
   * dtwclust library user guide
 
@@ -68,8 +68,10 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
   * Choosing suitable k
 
 ## References
-* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
-* Packages you use
+https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
+https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
+* 
+Packages used
   * dtwclust
   * map
   

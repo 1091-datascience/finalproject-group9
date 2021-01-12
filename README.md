@@ -25,7 +25,7 @@ Rscript code/TimeSeriesCluster.R
 ### docs
 https://docs.google.com/presentation/d/1BGztr853zrl21LoFfiGVN8iHWy_lOw2hET6KExU2lpg/edit?usp=sharing
 * Any related document for the final project
-  * dtwclust library user guide
+  https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
 
 ### data
 
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
 
 ## References
 https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
-https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
+https://github.com/rehanzfr/R_Codes/tree/master/Corona/
 * 
 Packages used
   * dtwclust
